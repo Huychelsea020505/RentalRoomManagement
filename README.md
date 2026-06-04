@@ -1,3 +1,2 @@
 # RentalRoomManagement
-#ToiTenHuy
-#Abc
+#Toi xin chao
